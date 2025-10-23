@@ -7,30 +7,30 @@
 
 ## 📖 About
 
-এই রিপোজিটরিতে আমি **Codeforces** এর বিভিন্ন সমস্যার সমাধান শেয়ার করছি।
-এখানে থাকবে আমার সমাধান করা problem গুলো **C এবং C++** ভাষায়।
-মূল উদ্দেশ্য হলো নিজের **problem-solving journey track করা** এবং ভবিষ্যতে অন্যদেরও সাহায্য করা।
+Welcome to my **Codeforces Solutions** repository!  
+This is where I upload solutions to various Codeforces problems that I’ve solved in **C** and **C++**.  
+
+The purpose of this repository is to **document my problem-solving journey**, continuously **improve my competitive programming skills**, and **help others** who might find these solutions useful.
 
 ---
 
 ## 📂 Repository Structure
 
-✨ প্রতিটি ফাইলের শুরুতে থাকবে:
-- 🔗 Problem Link (Codeforces)
-- 📝 সংক্ষিপ্ত Approach
-- 💻 কোড (C অথবা C++)
+Each file in this repo generally includes:
+- 🔗 A link to the original Codeforces problem  
+- 📝 A short explanation or approach  
+- 💻 The complete solution in C or C++
 
 ---
 
 ## 🎯 Motivation
 
-- 🏆 Competitive Programming skill improve করা
-- 📈 নিজের progress track করা
-- 🌍 অন্যদেরকে সাহায্য করা
-- 💼 Portfolio build-up করা (GitHub-visible)
+- 🏆 Sharpen my competitive programming skills  
+- 📈 Keep track of my progress over time  
+- 🌍 Share knowledge with other programmers  
+- 💼 Strengthen my GitHub portfolio  
 
 ---
-
 ## 🛠️ Languages & Tools
 
 - ![C](https://img.shields.io/badge/C-language-blue.svg?logo=c&logoColor=white)
@@ -41,19 +41,19 @@
 
 ## 🤝 Contribution
 
-যদিও এটা আমার personal repo, তবুও —
-- 🐛 Issues খুলে discuss করতে পারো
-- 💡 সাজেশন দিতে পারো
+Although this is a personal project, contributions are always welcome!  
+You can:
+- 🐛 Open an issue to discuss problems or bugs  
+- 💡 Suggest improvements or new ideas  
 
 ---
-
 ## 📌 Note
 
-⚠️ এখানে থাকা কোডগুলো শুধু **শেখার উদ্দেশ্যে**।
-তুমি আগে নিজে problem solve করার চেষ্টা করবে, তারপর প্রয়োজনে এই repo দেখতে পারো।
+⚠️ All solutions here are meant **for learning and reference only**.  
+Please try to solve the problems yourself first before checking these codes.  
+Learning by doing is the best way to improve!
 
 ---
-
 ## ✍️ Author
 
 👤 **Muhammad Jahidul Islam**  
